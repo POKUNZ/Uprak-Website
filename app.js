@@ -6,7 +6,7 @@ const products = [
     id: 1,
     title: "LENOVO LOQ",
     price: 15999000,
-    img: "img/lENOVOLOQ.png",
+    img: "./img/lENOVOLOQ.png",
   },
   {
     id: 2,
